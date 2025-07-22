@@ -1,0 +1,9 @@
+LangChain is a powerful Python framework designed to help developers build applications that leverage large language models (LLMs). It supports tools for chaining together prompts, incorporating memory, and retrieving knowledge from external sources like PDFs or websites.
+
+Retrieval-Augmented Generation (RAG) refers to an AI approach that combines generative models with external knowledge retrieval. Instead of relying solely on an LLM's training data, a RAG system retrieves relevant documents at query time and feeds them into the model for context-aware responses.
+
+FAISS (Facebook AI Similarity Search) is a vector database designed for fast and efficient similarity search over dense embeddings. It’s commonly used to store embedded documents and perform real-time semantic queries.
+
+Streamlit is a Python framework for building interactive web applications with minimal code. It's often used for deploying ML apps, dashboards, or chatbots with user input fields and live outputs.
+
+Document embedding is the process of converting natural language text into vector representations using models like Sentence Transformers. These vectors enable semantic search and are stored in databases for fast lookup.
